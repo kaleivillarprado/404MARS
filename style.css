@@ -46,3 +46,12 @@ h2 {
   align-items: center;     
   height: 100vh;         
 }
+
+#cover-animation {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -1;
+}
